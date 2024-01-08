@@ -2,7 +2,7 @@
 - 👀 I’m interested in programacion
 - 🌱 I’m currently learning full stack 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me polocervero@hotmail.com
 
 <!---
 Jorgepolocervero/Jorgepolocervero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
